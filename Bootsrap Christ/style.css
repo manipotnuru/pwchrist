@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"); */
+
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+img {
+	max-width:100%;
+		height: auto;
+}
+/*-------------------------1st Section------------------------------------*/	
+
+.head-sec {
+	height: 110px;
+	background: #FFF;
+}
+
+.head img {
+	margin-top: 8px;
+}
+
+.nvc ul {
+	margin-top: 50px;
+}
+
+.nvc ul li a {
+	margin-left: 17px;
+	font-size: 14px;
+	font-family: roboto regular;
+	text-decoration: none;
+}
+
+.nav button {
+
+	font-family: roboto regular;
+	margin-left: 17px;
+	font-size: 14px;
+}
+
+/*-------------------------2nd Section------------------------------------*/	
+
+.bnr-sec {
+	height: 508px;
+	background: url("images/ban.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.bnrh h1 {
+	font-size: 24px;
+	font-family: roboto regular;
+	margin-top: 252px;
+	color: #fff;
+	background: black;
+	width: 38%;
+	padding: 7px 2px;
+	opacity: 0.6;
+	word-spacing: 10px;
+	margin-left: 80px;
+}
+
+/*-------------------------3rd Section------------------------------------*/	
+
+
+
+
+.wl h1 {
+	text-align: end;
+	margin-right: 130px;
+	font-size: 32px;
+	font-family: roboto regular;
+	text-transform: uppercase;
+	color: #4c3696;
+	margin-top: 24px;
+}
+
+.wlicn nav {
+	margin-top: 24px;
+	margin-left: 75px;
+}
+.wlicn nav a {
+	margin-left: 37px;
+}
+
+
+.wlpra p {
+	font-size: 18px;
+	font-style: italic;
+	font-family: timesnewrom;
+	padding: 0px 65px;
+	margin-left: 24px;
+	margin-top: 25px;
+	text-align: justify;
+}
+
+/*-------------------------4th Section------------------------------------*/	
+
+.gallary-sec {
+	height: 382px;
+	background: url(images/wbg.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+.gallery {
+	background: #f4f3f6;
+margin-left:100px;
+max-width:100%;
+	color: #2b2b2b;
+	border-radius: 0px 0px 10px 10px;
+	padding-top:40px;
+
+}
+.gallery img {
+	width: 100%;
+	border-radius: 10px 10px 0px 0px;
+}
+.gallery h2 {
+	font-size: 24px;
+	font-family: roboto regular;
+	text-transform: uppercase;
+	padding: 14px 0px;
+	margin-top: 0px;
+	text-align: center;
+}
+
+/*-------------------------5th Section------------------------------------*/	
+
+.test-sec{ height:295px;
+	background:#dd9349;
+}
+
+
+.test h2{
+font-size: 32px;
+font-family: roberto regular;
+text-transform: uppercase;
+text-align: center;
+color: #fbf2ec;
+margin-top: 40px;
+}
+
+.test p{
+text-align: center;
+font-size: 20px;
+font-family: timesnewromi;
+font-style: italic;
+padding: 0px 91px;
+color: #ffffff;
+margin-top: 27px;
+}
+
+.test h5{
+font-size: 26px;
+font-family: timesnewromi;
+text-align: center;
+font-style: italic;
+color: #fbf2ec;
+}
+
+.test h6{
+font-size: 20px;
+font-family: timesnewromi;
+font-style: italic;
+text-align: center;
+color: #fbf2ec;
+}	
+
+/*-------------------------6th Section------------------------------------*/	
+
+.footer-sec{ height:240px;
+	background:#404144;
+}
+.ftr ul {
+
+	margin-top: 18px;
+}
+
+.ftr h3{
+font-size: 24px;
+font-family: roboto regular;
+color: #fff;
+margin-left: 32px;
+text-align: center;
+margin-top: 15px;
+}
+
+
+.ftr ul li{
+list-style: none;
+font-size: 14px;
+font-family: roboto regular;
+color: #abacad;
+margin-left: 29px;
+}
+
+.ftr input{
+border: 1px solid black;
+width: 50%;
+font-size: 15px;
+font-family: roboto regular;
+padding: 3px 8px;
+margin-left: 120px;
+border-radius: 5px;
+margin-top: 16px;
+}
+
+.ftr button{
+font-size: 14px;
+font-family: roboto regular;
+margin-left: 120px;
+width: 50%;
+}							
+
+/*-------------------------last Section------------------------------------*/	
+.last-sec{
+	/* height:66px; */
+	background:#a65516;
+}
+
+
+.last p{
+/* margin-top: 32px; */
+margin-left: 60px;
+color: #abacad;
+}
+
+
+.lasticn nav a i {
+
+	margin-left: 15px;
+}
+
+.lasticn nav {
+
+	margin-left: 200px;
+}
+
